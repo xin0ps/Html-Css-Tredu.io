@@ -314,14 +314,18 @@ font-family: sans-serif;
 
 .footerdiv{
     background-color: #16144a;
-    max-width: 1200px;
+    
     display: flex;
     flex-direction: row;
     gap: 40px;
    align-items: center;
 }
 .footer{
-    max-width: 1200px;
+    max-width: 1600px; 
+    margin:0 auto;
+    padding: 5px 40px  ;
+    display: flex;
+    flex-direction: column;
 }
 
 .div1 img{
