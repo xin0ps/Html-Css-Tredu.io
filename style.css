@@ -321,7 +321,7 @@ font-family: sans-serif;
 }
 
 .div1 img{
-    width: 50%;
+    width: 100%;
 }
 .div1img{
     width: 15%;
@@ -331,7 +331,7 @@ font-family: sans-serif;
 
 .div1{
     gap: 20px;
-    padding: 30px;
+    padding: 60px;
 
     display: flex;
     flex-direction: column;
