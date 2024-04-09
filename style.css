@@ -314,10 +314,14 @@ font-family: sans-serif;
 
 .footerdiv{
     background-color: #16144a;
+    max-width: 1200px;
     display: flex;
     flex-direction: row;
-    gap: 200px;
+    gap: 40px;
    align-items: center;
+}
+.footer{
+    max-width: 1200px;
 }
 
 .div1 img{
@@ -365,7 +369,7 @@ font-family: sans-serif;
    gap: 20px;
    justify-content: center;
    padding: 50px;
-   margin-right: 200px;
+
    border-radius: 15px;
 
 }
@@ -379,4 +383,8 @@ font-family: sans-serif;
     box-shadow: var(--tw-shadow);
     border: transparent;
     padding: 10px;
+}
+
+.div4 h2{
+    margin-left: 50px;
 }
